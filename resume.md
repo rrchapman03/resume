@@ -7,7 +7,7 @@ I have successfully performed a variety of technical communication roles for ove
 - [Complete online résumé with positions going back to the year 2000](https://rrchapman.us/about-technical-communicator/)
 - [Portfolio](https://rrchapman.us/about-technical-communicator/portfolio-of-robert-chapman/)
 - [LinkedIn profile, with recommendations](https://www.linkedin.com/in/rrchapman/)
-- [Curriculum Vitae on GitHub](https://github.com/rrchapman03/)
+- [Curriculum Vitae on GitHub](https://github.com/rrchapman03/CurriculumVitae/blob/main/curriculumvitae.md)
 
 Contact information [is at the end](#contact-information).
 
