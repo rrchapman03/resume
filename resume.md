@@ -35,7 +35,9 @@ Ulta Beauty, Network Services, Bolingbrook, Illinois
 
 Find, organize, cleanup, and store documentation scattered in many places in s Jira Confluence database for Network Services.  
 
-Tools: Microsoft Office 360 (Word, PowerPoint). Microsoft SharePoint. Atlassian Confluence, HTML, CSS.  
+#### Tools
+
+Microsoft Office 360 (Word, PowerPoint). Microsoft SharePoint. Atlassian Confluence, HTML, CSS.  
 
 ### Hi-Tech Talents, LLC, Bellevue, Washington
 
